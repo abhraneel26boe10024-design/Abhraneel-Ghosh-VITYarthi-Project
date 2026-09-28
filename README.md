@@ -56,11 +56,17 @@ Drug Abuse Prevention & Awareness Campaign| 04-10-2026| 10:30 AM| Academic Block
 📂 Project Structure
 
 Healthcare-Awareness-Campaign/
+
 │
+
 ├── main.py
+
 ├── README.md
+
 └── screenshots/
+   
     ├── campaign.png
+   
     └── registration.png
 
 ---
