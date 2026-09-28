@@ -1,0 +1,11 @@
+***How the project works***
+
+Start
+Display Main Menu
+Select an Option
+View Campaign / Register Student
+Enter Required Details
+Store Student Information
+Display Conformation
+Return to Main Menu
+Exit
