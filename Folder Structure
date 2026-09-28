@@ -1,0 +1,19 @@
+VITyarthi-Healthcare-Campaign/
+│
+├── main.py
+├── student.py
+├── campaign.py
+├── health_awareness.py
+├── registration.py
+├── validation.py
+├── reports.py
+├── data.py
+│
+├── README.md
+├── statement.md
+│
+├── tests/
+│   └── test_project.py
+│
+└── report/
+    └── Project_Report.pdf
