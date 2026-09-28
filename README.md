@@ -25,10 +25,15 @@ This project provides a simple console-based system where students can:
 📋 Available Campaigns
 
 Campaign| Date| Time| Venue
+
 Health Awareness Camp| 03-10-2026| 10:30 AM| Academic Block 2, 1st Floor
+
 Nutrition Awareness Camp| 03-10-2026| 12:30 PM| Academic Block 1, 1st Floor
+
 Mental Health Awareness Camp| 03-10-2026| 02:30 PM| Academic Block 3, 1st Floor
+
 Blood Donation Camp| 03-10-2026| 04:30 PM| Academic Block 2, 2nd Floor
+
 Drug Abuse Prevention & Awareness Campaign| 04-10-2026| 10:30 AM| Academic Block 3 Auditorium
 
 
