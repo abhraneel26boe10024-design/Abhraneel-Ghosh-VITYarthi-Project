@@ -92,21 +92,37 @@ python main.py
 The basic working process is:
 
 Start
+ 
   ↓
+
 Display Main Menu
+
   ↓
+
 Select an Option
+
   ↓
+
 View Campaigns / Register Student
+
   ↓
+
 Enter Required Details
+
   ↓
+
 Store Student Information
+
   ↓
+
 Display Confirmation
+
   ↓
+
 Return to Main Menu
+
   ↓
+
 Exit
 
 
