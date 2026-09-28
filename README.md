@@ -131,11 +131,17 @@ Exit
 The project was tested for basic operations such as:
 
 Test Case| Expected Result
+
 View campaigns| Campaign details are displayed
+
 Register student| Student details are accepted
+
 Enter student name| Name is stored
+
 Enter registration number| Registration number is stored
+
 Display campaign| Correct date, time and venue are shown
+
 Exit program| Program terminates
 
 
@@ -144,18 +150,26 @@ Exit program| Program terminates
 Through this project, the following skills were developed:
 
 - Python programming fundamentals
+
 - Data structure implementation
+
 - Function-based programming
+
 - Problem-solving
+
 - User input handling
+
 - Basic project development
+
 - GitHub project documentation
 
 
 👨‍💻 Author
 
 Student Name: Abhraneel Ghosh 26BOE10024
+
 Branch: Bioengineering
+
 Institution: VIT Bhopal University
 
 ---
@@ -163,8 +177,11 @@ Institution: VIT Bhopal University
 📄 Project Information
 
 Project: Healthcare Awareness Campaign Management System
+
 Course: Python Essentials / VITyarthi
+
 Language: Python
+
 Project Type: Academic Mini Project
 
 ---
