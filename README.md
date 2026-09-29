@@ -69,7 +69,6 @@ Healthcare-Awareness-Campaign/
    
     └── registration.png
 
----
 
 ⚙️ How to Run
 
