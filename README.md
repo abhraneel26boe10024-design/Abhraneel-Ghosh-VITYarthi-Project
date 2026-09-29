@@ -74,7 +74,7 @@ Healthcare-Awareness-Campaign/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Healthcare-Awareness-Campaign.git
+https://github.com/abhraneel26boe10024-design/Abhraneel-Ghosh-VITYarthi-Project
 
 2. Open the project folder
 
