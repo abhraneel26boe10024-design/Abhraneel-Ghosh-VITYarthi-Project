@@ -5,78 +5,117 @@ VITyarthi Healthcare Awareness Campaign
 A Simple Python Project for Student Health Awareness and Camp Registration
 
 Submitted By
+
 Name: Abhraneel Ghosh
+
 Course: B.Tech Bioengineering
+
 College: VIT Bhopal
+
 Year: 2026–2030
 
 ---
 
 Hey! Here's What I Built
 
-I developed a simple console-based Python project called VITyarthi Healthcare Awareness Campaign.
+I developed a console-based Python project called VITyarthi Healthcare Awareness Campaign.
 
-The main purpose of this project is to provide students with information about different healthcare awareness campaigns and allow them to register for these events.
+The main purpose of this project is to provide students with information about healthcare awareness campaigns and allow them to register for these events.
 
-The project is designed as a beginner-friendly Python application that demonstrates how programming can be used to organize student information and promote health awareness on campus.
+The project is designed as a beginner- Python application that demonstrates how programming can be used to organize student information and promote health awareness on campus.
 
 ---
 
 What My Project Can Do
 
 - Display available healthcare awareness campaigns
+
 - Show the date, time and venue of each campaign
+
 - Register students for a selected campaign
+
 - Store student details such as:
-  - Name
-  - Registration Number
-  - Branch
-  - Student Type
+
+Name
+
+Registration Number
+
+Branch
+
+Student Type
+
 - Display registered student information
-- Provide useful health-awareness information
+
+- Provide health-awareness information
+
 - Manage campaign-related data using Python lists and dictionaries
 
 Available Campaigns
 
 1. Health Awareness Camp
-   Date: 03-10-2026
-   Time: 10:30 AM
-   Venue: Academic Block 2, 1st Floor
+
+Date: 03-10-2026
+
+Time: 10:30 AM
+
+Venue: Block 2 1st Floor
 
 2. Nutrition Awareness Camp
-   Date: 03-10-2026
-   Time: 12:30 PM
-   Venue: Academic Block 1, 1st Floor
+
+Date: 03-10-2026
+
+Time: 12:30 PM
+
+Venue: Academic Block 1 1st Floor
 
 3. Mental Health Awareness Camp
-   Date: 03-10-2026
-   Time: 02:30 PM
-   Venue: Academic Block 3, 1st Floor
+
+Date: 03-10-2026
+
+Time: 02:30 PM
+
+Venue: Academic Block 3 1st Floor
 
 4. Blood Donation Camp
-   Date: 03-10-2026
-   Time: 04:30 PM
-   Venue: Academic Block 2, 2nd Floor
+
+Date: 03-10-2026
+
+Time: 04:30 PM
+
+Venue: Block 2 2nd Floor
 
 5. Drug Abuse Prevention & Awareness Campaign
-   Date: 04-10-2026
-   Time: 10:30 AM
-   Venue: Academic Block 3 Auditorium
+
+Date: 04-10-2026
+
+Time: 10:30 AM
+
+Venue: Block 3 Auditorium
 
 ---
 
 Tech Stuff
 
 - Language: Python
+
 - Type: Console-based application
+
 - Concepts Used:
-  - Lists
-  - Dictionaries
-  - Functions
-  - Loops
-  - Conditional statements
-  - User input
-  - Basic data management
+
+Lists
+
+Dictionaries
+
+Functions
+
+Loops
+
+Conditional statements
+
+User input
+
+Basic data management
+
 - No external libraries are required.
 
 ---
@@ -84,19 +123,24 @@ Tech Stuff
 How I Organized Everything
 
 VITyarthi_Healthcare_Awareness/
+
 │
+
 ├── main.py
+
 ├── students.txt
+
 ├── README.md
+
 └── project_report.md
 
-main.py – Contains the main Python program and menu system.
+main.py – Contains the Python program and menu system.
 
-students.txt – Used to store registered student information when required.
+Students.txt – Used to store registered student information when required.
 
-README.md – Contains a short description and instructions for the project.
+README.md – Contains a description and instructions for the project.
 
-project_report.md – Contains the complete project documentation.
+Project_report.md – Contains the project documentation.
 
 ---
 
@@ -111,42 +155,57 @@ The program stores campaign details using Python dictionaries inside a list. Eac
 Students can register by entering their:
 
 - Name
+
 - Registration Number
+
 - Branch
+
 - Student Type
 
 3. Campaign Selection
 
-Students can select the healthcare campaign they want to attend from the available options.
+Students can select the healthcare campaign they want to attend from the options.
 
 4. Health Awareness
 
-The project can provide important awareness points related to:
+The project can provide awareness points related to:
 
 - Healthy nutrition
+
 - Regular physical activity
+
 - Mental well-being
+
 - Blood donation
+
 - Avoiding drug and substance abuse
+
 - General health and hygiene
 
 5. Simple User Interface
 
-The project uses a simple menu-driven console interface so that students can easily navigate through the available options.
+The project uses a menu-driven console interface so that students can easily navigate through the available options.
 
 ---
 
 Sample Program Interface
 
 ============================================================
-          VITYARTHI HEALTHCARE AWARENESS CAMPAIGN
-                 VIT BHOPAL
+
+VITYARTHI HEALTHCARE AWARENESS CAMPAIGN
+
+VIT BHOPAL
+
 ============================================================
 
 1. View Campaigns
+
 2. Register Student
+
 3. View Registered Students
+
 4. Health Awareness Points
+
 5. Exit
 
 Enter your choice:
@@ -155,31 +214,46 @@ Enter your choice:
 
 What I Learned
 
-While developing this project, I learned how to:
+While developing this project I learned how to:
 
 - Use Python lists and dictionaries
+
 - Create and use functions
+
 - Take input from users
+
 - Use loops and conditional statements
+
 - Store and manage student information
+
 - Build a menu-driven application
+
 - Organize a Python project into different files
+
 - Apply Python programming to a real-world problem
 
 ---
 
 Future Improvements
 
-If I get more time, I would like to add:
+If I get time I would like to add:
 
 - A graphical user interface using Tkinter
+
 - Student login and authentication
+
 - Database storage using SQLite
+
 - Automatic registration confirmation
+
 - Email or notification system
+
 - Attendance tracking for campaigns
+
 - Search and filter options
+
 - PDF certificates for participants
+
 - Admin panel for managing campaigns
 
 ---
@@ -188,11 +262,12 @@ Final Words
 
 The VITyarthi Healthcare Awareness Campaign is a simple but useful Python project designed to encourage healthcare awareness among students.
 
-Although the project is beginner-friendly, it demonstrates important programming concepts such as functions, lists, dictionaries, loops, conditional statements and data management.
+Although the project is beginner-friendly it demonstrates programming concepts such as functions, lists, dictionaries, loops, conditional statements and data management.
 
-This project helped me understand how Python can be used to create a practical application for a real-world campus requirement.
+This project helped me understand how Python can be used to create an application for a real-world campus requirement.
 
-Made with Python and a focus on student health awareness.
+Made with Python. A focus, on student health awareness.
 
 Abhraneel Ghosh
+
 VIT Bhopal
