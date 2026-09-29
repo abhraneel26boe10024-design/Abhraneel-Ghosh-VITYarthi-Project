@@ -1,3 +1,5 @@
+#VIT Bhopal Healthcare campaign System
+
 students =[]
 
 campaign = [{"Name":"Health Awareness Camp", "Date":"03-10-2026", "Time":"10:30 AM", "Venue":"Academic Block 2 1st Floor"}
