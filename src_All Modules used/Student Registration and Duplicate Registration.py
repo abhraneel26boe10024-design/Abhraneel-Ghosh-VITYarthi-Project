@@ -1,5 +1,6 @@
 #Student Registration
 def register_student():
+    global students # Declare students as global
     print("\n---Student Registration---")
 
     name = input("Enter your name:")
@@ -8,9 +9,9 @@ def register_student():
     student_type = input("Enter your type (Hosteller or Day Scholar):")
 
     # duplicate registration
-    for students in students:
+    for existing_student in students: # Use a different variable name for iteration
 
-      if students["registration_no"] == registration_no:
+      if existing_student["registration_no"] == registration_no:
 
         print("Registration number already exists. Please choose a different one.")
 
@@ -21,4 +22,3 @@ def register_student():
     students.append(student)
 
     print("Registration successful!")
-
